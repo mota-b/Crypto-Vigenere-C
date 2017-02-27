@@ -1,0 +1,12 @@
+##To ignore
+
+#executable
+*.exe
+
+#idea
+.idea
+.idea/*
+
+
+#temp
+*~*
